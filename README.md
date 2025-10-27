@@ -40,7 +40,7 @@ https://tecnologiaingenieria.wordpress.com/2025/10/11/cansat-esp32-presion-tempe
 | 07 | WiFi Servidor Web ON/OFF | Control LED desde navegador | [📄 Ver](Codigos/07_WiFi_ServidorWeb_ON_OFF/07_WiFi_ServidorWeb_ON_OFF.ino) |
 | 08 | WiFi Servidor Web UI mejorada | Interfaz visual moderna HTML/CSS | [📄 Ver](Codigos/08_WiFi_ServidorWeb_UI/08_WiFi_ServidorWeb_UI.ino) |
 | 09 | WiFi Web UI + usabilidad | AJAX + estado real en JSON | [📄 Ver](Codigos/09_WiFi_ServidorWeb_UI_Usabilidad/09_WiFi_ServidorWeb_UI_Usabilidad.ino) |
-| 10 | Test BMP280 | Presión y temperatura | 🔒 Pendiente |
+| 10 | Test BMP280 | Temperatura, presión y altitud | [📄 Ver](Codigos/10_Test_BMP280/10_Test_BMP280.ino) |
 | 11 | Test MPU6050 | Inclinación y aceleraciones | 🔒 Pendiente |
 | 12 | Test microSD | Registro de datos en memoria | 🔒 Pendiente |
 | 13 | Test LoRa SX1278 | Telemetría inalámbrica | 🔒 Pendiente |
