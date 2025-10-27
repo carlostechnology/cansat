@@ -19,15 +19,12 @@
   Licencia: MIT
 ***************************************************/
 
-// Pin del LED a testear
-int led = 25; // Usaremos el pin GPIO25
+int led = 25; // Usaremos el pin GPI25
 
-// ------------------- Configuración -------------------
 void setup() {
-  pinMode(led, OUTPUT); // Configurar GPIO25 como salida
+  pinMode(led, OUTPUT); // Configurar GPI25 como salida
 }
 
-// ------------------- Bucle principal -------------------
 void loop() {
   digitalWrite(led, HIGH); // Encender LED
   delay(1000);             // Esperar 1 segundo
