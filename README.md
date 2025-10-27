@@ -13,6 +13,7 @@ Ballester** (Santa Marta de Tormes, Salamanca).
 ## 📚 Tutoriales del proyecto (WordPress)
 
 Explicaciones paso a paso en el blog:
+
 🔹 **Introducción al proyecto CANSAT: lanzamiento de satélites**  
 https://tecnologiaingenieria.wordpress.com/2025/10/10/cansat-lanzamiento-de-satelites/
 
