@@ -20,22 +20,21 @@
   Licencia: MIT
 ***************************************************/
 
-#include "WiFi.h" // Biblioteca para manejar WiFi en ESP32
+#include "WiFi.h"
 
-// ------------------- Configuración -------------------
 void setup() {
-  Serial.begin(115200); // Activar monitor serie para ver resultados
+  Serial.begin(115200);
   Serial.println("Iniciando escaneo WiFi...");
-
-  WiFi.mode(WIFI_STA); // Modo estación (cliente WiFi)
-  WiFi.disconnect();   // Desconectar de cualquier red previa
-  delay(100);          // Pequeña espera para estabilidad
+  
+  // Inicia WiFi en modo estación (como un dispositivo normal)
+  WiFi.mode(WIFI_STA);
+  WiFi.disconnect();
+  delay(100);
 }
 
-// ------------------- Bucle principal -------------------
 void loop() {
   Serial.println("Escaneando...");
-  int n = WiFi.scanNetworks(); // Nº de redes encontradas
+  int n = WiFi.scanNetworks();
   
   if (n == 0) {
     Serial.println("No se encontraron redes :(");
@@ -44,15 +43,16 @@ void loop() {
     for (int i = 0; i < n; ++i) {
       Serial.print(i + 1);
       Serial.print(": ");
-      Serial.print(WiFi.SSID(i)); // Nombre de la red
+      Serial.print(WiFi.SSID(i));         // Nombre de la red
       Serial.print(" (");
-      Serial.print(WiFi.RSSI(i)); // Intensidad de señal (dBm)
+      Serial.print(WiFi.RSSI(i));         // Intensidad de señal
       Serial.print(" dBm) ");
       Serial.println((WiFi.encryptionType(i) == WIFI_AUTH_OPEN) ? "Abierta" : "Encriptada");
-      delay(10); // Pausa breve para evitar saturar el monitor serie
+      delay(10);
     }
   }
-
   Serial.println("");
-  delay(5000); // Repetir escaneo cada 5 s
+
+  // Repetir escaneo cada 5 segundos
+  delay(5000);
 }
