@@ -43,6 +43,7 @@ https://tecnologiaingenieria.wordpress.com/2025/10/11/cansat-esp32-presion-tempe
 | 10 | Test BMP280 | Temperatura, presión y altitud | [📄 Ver](Codigos/10_Test_BMP280/10_Test_BMP280.ino) |
 | 11 | BMP280 CSV para Excel | Datos en formato tiempo-temp-pres-alt | [📄 Ver](Codigos/11_BMP280_CSV/11_BMP280_CSV.ino) |
 | 12 | BMP280 CSV España | Salida con ; y coma decimal compatible Excel ES | [📄 Ver](Codigos/12_BMP280_CSV_ES/12_BMP280_CSV_ES.ino) |
+| 13 | BMP280 + microSD CSV (España) | Registro de datos real en vuelo | [📄 Ver](Codigos/13_BMP280_SD_CSV_ES/13_BMP280_SD_CSV_ES.ino) |
 
 | X | Test microSD | Registro de datos en memoria | 🔒 Pendiente |
 | X | Test LoRa SX1278 | Telemetría inalámbrica | 🔒 Pendiente |
