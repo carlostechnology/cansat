@@ -19,36 +19,32 @@
   Licencia: MIT
 ***************************************************/
 
-#include <WiFi.h>  // Biblioteca de gestión WiFi en ESP32
+#include <WiFi.h>
 
-// ------------------- Configuración WiFi -------------------
-// ⚠️ Cambiar por los datos de tu red WiFi
-const char* ssid     = "TU_SSID";     // Nombre de la red WiFi
-const char* password = "TU_PASSWORD"; // Contraseña de la red
+const char* ssid     = "TU_SSID";     // Nombre de tu red WiFi
+const char* password = "TU_PASSWORD"; // Contraseña de tu WiFi
 
-// ------------------- Configuración -------------------
 void setup() {
   Serial.begin(115200);
   delay(1000);
 
-  Serial.println("\nConectando a la red WiFi...");
+  Serial.println();
+  Serial.print("Conectando a ");
   Serial.println(ssid);
 
-  WiFi.begin(ssid, password); // Intentar conexión
+  WiFi.begin(ssid, password);
 
-  // Esperar hasta estar conectado
   while (WiFi.status() != WL_CONNECTED) {
     delay(500);
-    Serial.print(".");
+    Serial.print("Conectando...");
   }
 
-  Serial.println("\n✅ WiFi conectado");
-  Serial.print("Dirección IP asignada: ");
+  Serial.println();
+  Serial.println("WiFi conectado");
+  Serial.print("Dirección IP: ");
   Serial.println(WiFi.localIP());
 }
 
-// ------------------- Bucle principal -------------------
 void loop() {
-  // Nada aquí por ahora: solo conexión WiFi
-  // Se usará más adelante para servidor web / MQTT
+  // Nada en el bucle, solo comprobamos conexión
 }
