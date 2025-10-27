@@ -30,14 +30,22 @@ https://tecnologiaingenieria.wordpress.com/2025/10/11/cansat-esp32-presion-tempe
 ## 📂 Códigos Arduino IDE del proyecto
 
 | Nº | Nombre | Descripción | Código |
-|---|--------|-------------|-------|
-| 01 | Test LED | Comprobación GPIO25 del ESP32 | 🔜 Enlace pronto |
-| 02 | Test WiFi | Escaneo de redes cercanas | 🔜 Enlace pronto |
-| 03 | Test BMP280 | Presión y temperatura | 🔒 Pendiente |
-| 04 | Test MPU6050 | Inclinación y aceleraciones | 🔒 Pendiente |
-| 05 | Test microSD | Guardar datos en memoria | 🔒 Pendiente |
-| 06 | Test LoRa | Telemetría en tiempo real | 🔒 Pendiente |
-| 07 | Telemetría completa | Todos los módulos integrados | 🔒 Pendiente |
+|---:|--------|-------------|:------:|
+| 01 | Test LED | Comprobación GPIO25 del ESP32 | [📄 Ver](Codigos/01_Test_LED/01_Test_LED.ino) |
+| 02 | WiFi Escaneo | Escaneo de redes cercanas | [📄 Ver](Codigos/02_WiFi_Escaneo/02_WiFi_Escaneo.ino) |
+| 03 | WiFi Conexión | Conexión a una red WiFi y obtención de IP | [📄 Ver](Codigos/03_WiFi_Conexion/03_WiFi_Conexion.ino) |
+| 04 | WiFi Calidad señal | Intensidad de señal (RSSI) | [📄 Ver](Codigos/04_WiFi_Calidad/04_WiFi_Calidad.ino) |
+| 05 | WiFi Velocidad descarga | Medición de velocidad HTTP | [📄 Ver](Codigos/05_WiFi_VelocidadDescarga/05_WiFi_VelocidadDescarga.ino) |
+| 06 | WiFi AP (Punto de Acceso) | La ESP32 crea una red WiFi propia | [📄 Ver](Codigos/06_WiFi_PuntoAcceso/06_WiFi_PuntoAcceso.ino) |
+| 07 | WiFi Servidor Web ON/OFF | Control LED desde navegador | [📄 Ver](Codigos/07_WiFi_ServidorWeb_ON_OFF/07_WiFi_ServidorWeb_ON_OFF.ino) |
+| 08 | WiFi Servidor Web UI mejorada | Interfaz visual moderna | [📄 Ver](Codigos/08_WiFi_ServidorWeb_UI/08_WiFi_ServidorWeb_UI.ino) |
+| 09 | WiFi Servidor Web + usabilidad | AJAX + estado en tiempo real | [📄 Ver](Codigos/09_WiFi_ServidorWeb_UI_Usabilidad/09_WiFi_ServidorWeb_UI_Usabilidad.ino) |
+| 10 | Test BMP280 | Presión y temperatura | 🔒 Pendiente |
+| 11 | Test MPU6050 | Inclinación y aceleraciones | 🔒 Pendiente |
+| 12 | Test microSD | Guardar datos en memoria | 🔒 Pendiente |
+| 13 | Test LoRa | Telemetría en tiempo real | 🔒 Pendiente |
+| 14 | Telemetría completa | Todos los módulos integrados | 🔒 Pendiente |
+
 
 🛠 Al ir subiendo cada código, activaremos los enlaces directamente aquí ✅
 
