@@ -65,7 +65,7 @@ https://tecnologiaingenieria.wordpress.com/2025/10/11/cansat-esp32-presion-tempe
 ## 👨‍🏫 Liderado por
 
 **Carlos Sánchez Barbero**  
-Coordinador TIC · Profesor de Tecnología y Digitalización  
+Coordinador TIC · Profesor de Tecnología  
 IES Gonzalo Torrente Ballester — Salamanca
 
 Blog: https://tecnologiaingenieria.wordpress.com  
