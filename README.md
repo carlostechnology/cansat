@@ -42,10 +42,11 @@ https://tecnologiaingenieria.wordpress.com/2025/10/11/cansat-esp32-presion-tempe
 | 09 | WiFi Web UI + usabilidad | AJAX + estado real en JSON | [📄 Ver](Codigos/09_WiFi_ServidorWeb_UI_Usabilidad/09_WiFi_ServidorWeb_UI_Usabilidad.ino) |
 | 10 | Test BMP280 | Temperatura, presión y altitud | [📄 Ver](Codigos/10_Test_BMP280/10_Test_BMP280.ino) |
 | 11 | BMP280 CSV para Excel | Datos en formato tiempo-temp-pres-alt | [📄 Ver](Codigos/11_BMP280_CSV/11_BMP280_CSV.ino) |
+| 12 | BMP280 CSV España | Salida con ; y coma decimal compatible Excel ES | [📄 Ver](Codigos/12_BMP280_CSV_ES/12_BMP280_CSV_ES.ino) |
 
-| 12 | Test microSD | Registro de datos en memoria | 🔒 Pendiente |
-| 13 | Test LoRa SX1278 | Telemetría inalámbrica | 🔒 Pendiente |
-| 14 | Telemetría completa | Todos los módulos integrados | 🔒 Pendiente |
+| X | Test microSD | Registro de datos en memoria | 🔒 Pendiente |
+| X | Test LoRa SX1278 | Telemetría inalámbrica | 🔒 Pendiente |
+| X | Telemetría completa | Todos los módulos integrados | 🔒 Pendiente |
 
 📌 Próximas actualizaciones semanales ✅
 
