@@ -4,7 +4,7 @@ CANSAT educativo con **ESP32**: un satélite del tamaño de una lata
 capaz de medir datos reales de **presión, temperatura, altitud,
 orientación y telemetría** en un vuelo simulado 🌍🛰️
 
-Este repositorio incluye todos los **códigos Arduino IDE**, esquemas
+Este repositorio incluye todos los **programas Arduino para ESP32**, esquemas
 y documentación práctica utilizados por los alumnos del
 **IES Gonzalo Torrente Ballester** (Santa Marta de Tormes, Salamanca).
 
