@@ -26,7 +26,7 @@ https://tecnologiaingenieria.wordpress.com/2025/10/11/cansat-esp32-presion-tempe
 🔹 Sensor MPU6050: aceleración y orientación  
 https://tecnologiaingenieria.wordpress.com/2025/10/21/cansat-aceleracion-y-orientacion/
 
-📌 Más tutoriales próximamente: MPU6050, LoRa, microSD, telemetría completa…
+📌 Más tutoriales próximamente: LoRa, cámaras, telemetría completa…
 
 ---
 
