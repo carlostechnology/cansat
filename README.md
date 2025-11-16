@@ -17,7 +17,7 @@ Explicaciones paso a paso:
 🔹 CANSAT: lanzamiento de satélites  
 https://tecnologiaingenieria.wordpress.com/2025/10/10/cansat-lanzamiento-de-satelites/
 
-🔹 CANSAT: LED, WiFi y servidor web   
+🔹 Esp32: LED, WiFi y servidor web   
 https://tecnologiaingenieria.wordpress.com/2025/09/30/esp32-led-wifi-y-servidor-web/
 
 🔹 Sensor BMP280: presión, temperatura y altitud   
