@@ -23,6 +23,9 @@ https://tecnologiaingenieria.wordpress.com/2025/09/30/esp32-led-wifi-y-servidor-
 🔹 Sensor BMP280: presión, temperatura y altitud  
 https://tecnologiaingenieria.wordpress.com/2025/10/11/cansat-esp32-presion-temperatura-y-altitud/
 
+🔹 Sensor MPU6050: aceleración y orientación 
+https://tecnologiaingenieria.wordpress.com/2025/10/21/cansat-aceleracion-y-orientacion/
+
 📌 Más tutoriales próximamente: MPU6050, LoRa, microSD, telemetría completa…
 
 ---
