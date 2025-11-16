@@ -14,14 +14,26 @@ y documentación práctica utilizados por los alumnos del
 
 Explicaciones paso a paso:
 
-🔹 CANSAT: lanzamiento de satélites y objetivos del proyecto  
+🔹 CANSAT: lanzamiento de satélites  
 https://tecnologiaingenieria.wordpress.com/2025/10/10/cansat-lanzamiento-de-satelites/
 
-🔹 ESP32: LED, WiFi y servidor web   
+🔹 CANSAT: LED, WiFi y servidor web   
 https://tecnologiaingenieria.wordpress.com/2025/09/30/esp32-led-wifi-y-servidor-web/
 
 🔹 Sensor BMP280: presión, temperatura y altitud   
 https://tecnologiaingenieria.wordpress.com/2025/10/11/cansat-esp32-presion-temperatura-y-altitud/
+
+🔹 Cirkit Designer: Diagramas de cableado  
+https://tecnologiaingenieria.wordpress.com/2025/11/05/cansat-diagramas-de-cableado/
+
+🔹 FreeCAD: Nave Orión  
+https://tecnologiaingenieria.wordpress.com/2023/10/26/mission-space-lab-cohete-con-freecad/
+
+🔹 Astro Pi: Mission Zero  
+https://tecnologiaingenieria.wordpress.com/2025/11/04/cansat-mission-zero/
+
+🔹 LLMs: Insignias  
+https://tecnologiaingenieria.wordpress.com/2025/11/04/cansat-insignia-con-inteligencia-artificial/
 
 🔹 Sensor MPU6050: aceleración y orientación  
 https://tecnologiaingenieria.wordpress.com/2025/10/21/cansat-aceleracion-y-orientacion/
