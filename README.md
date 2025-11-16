@@ -45,6 +45,18 @@ https://tecnologiaingenieria.wordpress.com/2025/10/11/cansat-esp32-presion-tempe
 | 12 | BMP280 CSV España | Salida con ; y coma decimal compatible Excel ES | [📄 Ver](Codigos/12_BMP280_CSV_ES/12_BMP280_CSV_ES.ino) |
 | 13 | BMP280 + microSD CSV (España) | Registro de datos real en vuelo | [📄 Ver](Codigos/13_BMP280_SD_CSV_ES/13_BMP280_SD_CSV_ES.ino) |
 | 14 | WiFi + BMP280 Telemetría web | Gráficas SVG en navegador, JSON /data | [📄 Ver](Codigos/14_WiFi_BMP280_TelemetriaWeb/14_WiFi_BMP280_TelemetriaWeb.ino) |
+| 15 | Test sensor MPU6050 | Comprobación del MPU6050 por I2C y lectura básica de datos sin tratar.  |
+| 16 | Inclinación con acelerómetro | Cálculo de roll y pitch a partir del acelerómetro (sin giroscopio). | [Ver📄]()|
+| 17 | Fusión de sensores | Fusión sencilla de acelerómetro y giroscopio para mejorar estabilidad. | [Ver
+| 18 | MPU6050 – Digital Motion Processor (DMP) | Activación del DMP y lectura de yaw, pitch y roll sin calibrar.     | 
+| 19 | MPU6050 – DMP calibración | Sketch específico para obtener los offsets de calibración del IMU.  | 
+| 20 | MPU6050 – DMP calibrado | DMP inicializado con los offsets medidos para obtener orientación estable. | 
+| 21 | MPU6050 – DMP calibrado + Serial Plotter | Envío de yaw, pitch y roll al Serial Plotter para visualizar las curvas. | 
+| 22 | MPU6050 – DMP calibrado + Plotter con nombres | Versión del plotter que etiqueta las curvas como “yaw”, “pitch” y “roll”. | 
+| 23 | Caja negra (MPU6050 + microSD) | Registro de yaw, pitch y roll en una tarjeta microSD como caja negra.| 
+| 24 | Telemetría red local | Servidor web básico que publica orientación 3D en la red local.| 
+| 25 | Telemetría red local móvil | Versión adaptada a móvil con interfaz web sencilla para yaw/pitch/roll. |
+| 26 | Telemetría red local móvil (mejorado) | UI mejorada con tarjetas y gráficas SVG responsivas para orientación 3D. | 
 | X | Test LoRa SX1278 | Telemetría inalámbrica | 🔒 Pendiente |
 | X | Telemetría completa | Todos los módulos integrados | 🔒 Pendiente |
 
