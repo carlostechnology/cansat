@@ -206,10 +206,10 @@
 
 | Nº | Nombre | Descripción | Tutorial | Código |
 |---:|--------|-------------|:--------:|:------:|
-| 130 | UART TX | Envío desde CAM | [📘 Ver](LINK) | [📄 Ver](../Codigos/130_UART_TX/...) |
-| 131 | UART RX | Recepción Heltec | [📘 Ver](LINK) | [📄 Ver](../Codigos/131_UART_RX/...) |
-| 132 | VIS sensor | Procesado imagen | [📘 Ver](LINK) | [📄 Ver](../Codigos/132_VIS/...) |
-| 133 | VIS + LoRa | Reenvío datos | [📘 Ver](LINK) | [📄 Ver](../Codigos/133_VIS_LORA/...) |
+| 130 | UART TX | Envío desde CAM | [🎥 Tutorial paso a paso](https://tecnologiaingenieria.wordpress.com/2026/03/20/cansat-comunicacion-por-radio/#programa-para-el-cansat-heltec-1-tx-baliza) | [📄 Ver](../Codigos/130_UART_TX/...) |
+| 131 | UART RX | Recepción Heltec | [🎥 Tutorial paso a paso](https://tecnologiaingenieria.wordpress.com/2026/03/20/cansat-comunicacion-por-radio/#programa-para-la-estacion-de-tierra-heltec-2-rx) | [📄 Ver](../Codigos/131_UART_RX/...) |
+| 132 | VIS sensor | Procesado imagen | [🎥 Tutorial paso a paso](https://tecnologiaingenieria.wordpress.com/2026/03/20/cansat-comunicacion-por-radio/#programa-lora-oled) | [📄 Ver](../Codigos/132_VIS/...) |
+| 133 | VIS + LoRa | Reenvío datos | [🎥 Tutorial paso a paso](https://tecnologiaingenieria.wordpress.com/2026/03/20/cansat-comunicacion-por-radio/#rx-con-oled-estadisticas-de-enlace) | [📄 Ver](../Codigos/133_VIS_LORA/...) |
 
 ---
 
