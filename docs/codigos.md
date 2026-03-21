@@ -96,10 +96,10 @@
 
 | Nº | Nombre | Descripción | Tutorial | Código |
 |---:|--------|-------------|:--------:|:------:|
-| 40 | Hello World | Programa mínimo de arranque | [📘 Ver](LINK) | [📄 Ver](../Codigos/40_Heltec_Hello/...) |
-| 41 | Test GPIO | Prueba de salida digital con LED | [📘 Ver](LINK) | [📄 Ver](../Codigos/41_Heltec_GPIO/...) |
-| 42 | OLED básico | Mostrar texto en pantalla | [📘 Ver](LINK) | [📄 Ver](../Codigos/42_Heltec_OLED/...) |
-| 43 | Panel OLED | Interfaz tipo telemetría | [📘 Ver](LINK) | [📄 Ver](../Codigos/43_Heltec_OLED_Panel/...) |
+| 40 | Hello World | Programa mínimo de arranque | [🎥 Tutorial paso a paso](https://tecnologiaingenieria.wordpress.com/2026/01/08/cansat-wifi-lora-32-v3/#programa-hola-mundo-wifi-lora-32-v3) | [📄 Ver](../Codigos/40_Heltec_Hello/...) |
+| 41 | Test GPIO | Prueba de salida digital con LED | [🎥 Tutorial paso a paso](https://tecnologiaingenieria.wordpress.com/2026/01/08/cansat-wifi-lora-32-v3/#programa-led-externo-wifi-lora-32-v3) | [📄 Ver](../Codigos/41_Heltec_GPIO/...) |
+| 42 | OLED básico | Mostrar texto en pantalla | [🎥 Tutorial paso a paso](https://tecnologiaingenieria.wordpress.com/2026/01/08/cansat-wifi-lora-32-v3/#programa-mostrar-texto-en-la-pantalla-oled-wifi-lora-32-v3) | [📄 Ver](../Codigos/42_Heltec_OLED/...) |
+| 43 | Panel OLED | Interfaz tipo telemetría | [🎥 Tutorial paso a paso](https://tecnologiaingenieria.wordpress.com/2026/01/08/cansat-wifi-lora-32-v3/#programa-oled-pro-wifi-lora-32-v3) | [📄 Ver](../Codigos/43_Heltec_OLED_Panel/...) |
 
 ---
 
@@ -107,9 +107,9 @@
 
 | Nº | Nombre | Descripción | Tutorial | Código |
 |---:|--------|-------------|:--------:|:------:|
-| 44 | WiFi Scan | Escaneo redes (Serial) | [📘 Ver](LINK) | [📄 Ver](../Codigos/44_Heltec_WiFi_Scan/...) |
-| 45 | WiFi + OLED | Escaneo + visualización | [📘 Ver](LINK) | [📄 Ver](../Codigos/45_Heltec_WiFi_OLED/...) |
-| 46 | Web LED | Control LED desde navegador | [📘 Ver](LINK) | [📄 Ver](../Codigos/46_Heltec_Web_LED/...) |
+| 44 | WiFi Scan | Escaneo redes (Serial) | [🎥 Tutorial paso a paso](https://tecnologiaingenieria.wordpress.com/2026/01/08/cansat-wifi-lora-32-v3/#programa-escanear-wifi-cercanas-wifi-lora-32-v3) | [📄 Ver](../Codigos/44_Heltec_WiFi_Scan/...) |
+| 45 | WiFi + OLED | Escaneo + visualización | [🎥 Tutorial paso a paso](https://tecnologiaingenieria.wordpress.com/2026/01/08/cansat-wifi-lora-32-v3/#programa-escenar-redes-oled-wifi-lora-32-v3) | [📄 Ver](../Codigos/45_Heltec_WiFi_OLED/...) |
+| 46 | Web LED | Control LED desde navegador | [🎥 Tutorial paso a paso](https://tecnologiaingenieria.wordpress.com/2026/01/08/cansat-wifi-lora-32-v3/#codigo-servidor-basico-wifi-lora-32-v3) | [📄 Ver](../Codigos/46_Heltec_Web_LED/...) |
 
 ---
 
@@ -129,11 +129,11 @@
 
 | Nº | Nombre | Descripción | Tutorial | Código |
 |---:|--------|-------------|:--------:|:------:|
-| 60 | MPU básico | Lectura directa | [📘 Ver](LINK) | [📄 Ver](../Codigos/60_Heltec_MPU/...) |
+| 60 | MPU básico | Lectura directa | [📘 Ver](https://tecnologiaingenieria.wordpress.com/2026/01/09/cansat-wifi-lora-32-v3-y-bmp280/#programa-temperatura-en-monitor-serie) | [📄 Ver](../Codigos/60_Heltec_MPU/...) |
 | 61 | MPU calibración | Cálculo de offsets | [📘 Ver](LINK) | [📄 Ver](../Codigos/61_Heltec_MPU_CAL/...) |
-| 62 | MPU estable | Lectura filtrada | [📘 Ver](LINK) | [📄 Ver](../Codigos/62_Heltec_MPU_STABLE/...) |
-| 63 | MPU HUD | Datos en OLED | [📘 Ver](LINK) | [📄 Ver](../Codigos/63_Heltec_MPU_HUD/...) |
-| 64 | MPU SD | Registro en CSV | [📘 Ver](LINK) | [📄 Ver](../Codigos/64_Heltec_MPU_SD/...) |
+| 62 | MPU estable | Lectura filtrada | [📘 Ver](https://tecnologiaingenieria.wordpress.com/2026/01/09/cansat-wifi-lora-32-v3-y-bmp280/#programa-hud-pro-cansat-heltec-wifi-lora-32-v3) | [📄 Ver](../Codigos/62_Heltec_MPU_STABLE/...) |
+| 63 | MPU HUD | Datos en OLED | [📘 Ver](https://tecnologiaingenieria.wordpress.com/2026/01/09/cansat-wifi-lora-32-v3-y-bmp280/#codigo-lectura-de-temperatura-presion-y-altitud-oled-heltec-wifi-lora-32-v3) | [📄 Ver](../Codigos/63_Heltec_MPU_HUD/...) |
+| 64 | MPU SD | Registro en CSV | [📘 Ver](https://tecnologiaingenieria.wordpress.com/2026/01/09/cansat-wifi-lora-32-v3-y-bmp280/#programa-bmp280-a-microsd-en-csv-heltec-wifi-lora-32-v3) | [📄 Ver](../Codigos/64_Heltec_MPU_SD/...) |
 
 ---
 
