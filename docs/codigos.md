@@ -186,9 +186,9 @@
 
 | Nº | Nombre | Descripción | Tutorial | Código |
 |---:|--------|-------------|:--------:|:------:|
-| 110 | Buzzer inteligente | Avisos + modo locate | [📘 Ver](LINK) | [📄 Ver](../Codigos/110_Buzzer/...) |
-| 111 | WS2812 básico | LED RGB test | [📘 Ver](LINK) | [📄 Ver](../Codigos/111_WS2812_TEST/...) |
-| 112 | WS2812 sistema | Estados del CanSat | [📘 Ver](LINK) | [📄 Ver](../Codigos/112_WS2812_SYSTEM/...) |
+| 110 | Buzzer inteligente | Avisos + modo locate | [🎥 Tutorial paso a paso](LINK) | [📄 Ver](../Codigos/110_Buzzer/...) |
+| 111 | WS2812 básico | LED RGB test | [🎥 Tutorial paso a paso](https://tecnologiaingenieria.wordpress.com/2026/02/11/cansat-eventos-luminosos/#programa-test-del-led-ws2812-rojo-fijo) | [📄 Ver](../Codigos/111_WS2812_TEST/...) |
+| 112 | WS2812 sistema | Estados del CanSat | [🎥 Tutorial paso a paso](https://tecnologiaingenieria.wordpress.com/2026/02/11/cansat-eventos-luminosos/#sistema-pro-led-como-panel-de-estado-del-cansat) | [📄 Ver](../Codigos/112_WS2812_SYSTEM/...) |
 
 ---
 
