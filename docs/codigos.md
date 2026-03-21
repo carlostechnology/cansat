@@ -196,9 +196,9 @@
 
 | Nº | Nombre | Descripción | Tutorial | Código |
 |---:|--------|-------------|:--------:|:------:|
-| 120 | Camera Web | Streaming básico | [📘 Ver](LINK) | [📄 Ver](../Codigos/120_CAM_WEB/...) |
-| 121 | Guardar imagen | Foto en SD | [📘 Ver](LINK) | [📄 Ver](../Codigos/121_CAM_SD/...) |
-| 122 | Timelapse | Fotos secuenciales | [📘 Ver](LINK) | [📄 Ver](../Codigos/122_CAM_TIMELAPSE/...) |
+| 120 | Camera Web | Streaming básico | [🎥 Tutorial paso a paso](https://tecnologiaingenieria.wordpress.com/2026/02/11/cansat-modulo-de-vision/#subir-camerawebserver-y-primera-prueba-real) | [📄 Ver](../Codigos/120_CAM_WEB/...) |
+| 121 | Guardar imagen | Foto en SD | [🎥 Tutorial paso a paso](https://tecnologiaingenieria.wordpress.com/2026/02/11/cansat-modulo-de-vision/#camara-de-fotos-de-boton) | [📄 Ver](../Codigos/121_CAM_SD/...) |
+| 122 | Timelapse | Fotos secuenciales | [🎥 Tutorial paso a paso](https://tecnologiaingenieria.wordpress.com/2026/02/11/cansat-modulo-de-vision/#guardar-n-fotos-durante-10-segundos) | [📄 Ver](../Codigos/122_CAM_TIMELAPSE/...) |
 
 ---
 
