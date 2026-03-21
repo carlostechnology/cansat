@@ -141,11 +141,11 @@
 
 | Nº | Nombre | Descripción | Tutorial | Código |
 |---:|--------|-------------|:--------:|:------:|
-| 70 | GPS NMEA | Tramas crudas | [📘 Ver](LINK) | [📄 Ver](../Codigos/70_Heltec_GPS_RAW/...) |
-| 71 | GPS TinyGPS++ | Parseo básico | [📘 Ver](LINK) | [📄 Ver](../Codigos/71_Heltec_GPS_PARSE/...) |
-| 72 | GPS filtrado | Datos válidos (fix) | [📘 Ver](LINK) | [📄 Ver](../Codigos/72_Heltec_GPS_FILTER/...) |
-| 73 | GPS SD | Registro gps_data.csv | [📘 Ver](LINK) | [📄 Ver](../Codigos/73_Heltec_GPS_SD/...) |
-| 74 | GPS HUD | OLED + diagnóstico | [📘 Ver](LINK) | [📄 Ver](../Codigos/74_Heltec_GPS_HUD/...) |
+| 70 | GPS NMEA | Tramas crudas | [📘 Ver](https://tecnologiaingenieria.wordpress.com/2026/01/16/cansat-lora-wifi-32-v3-y-gps-neo-6m/#ver-tramas-nmea-en-el-monitor-serie) | [📄 Ver](../Codigos/70_Heltec_GPS_RAW/...) |
+| 71 | GPS TinyGPS++ | Parseo básico | [📘 Ver](https://tecnologiaingenieria.wordpress.com/2026/01/16/cansat-lora-wifi-32-v3-y-gps-neo-6m/#programa-gps-neo-6m-y-tinygps-heltec-wifi-lora-32-v3) | [📄 Ver](../Codigos/71_Heltec_GPS_PARSE/...) |
+| 72 | GPS filtrado | Datos válidos (fix) | [📘 Ver](https://tecnologiaingenieria.wordpress.com/2026/01/16/cansat-lora-wifi-32-v3-y-gps-neo-6m/#programa-gps-neo-6m-tinygps-filtrado-heltec-wifi-lora-32-v3) | [📄 Ver](../Codigos/72_Heltec_GPS_FILTER/...) |
+| 73 | GPS SD | Registro gps_data.csv | [📘 Ver](https://tecnologiaingenieria.wordpress.com/2026/01/16/cansat-lora-wifi-32-v3-y-gps-neo-6m/#programa-gps-microsd-heltec-wifi-lora-32-v3) | [📄 Ver](../Codigos/73_Heltec_GPS_SD/...) |
+| 74 | GPS HUD | OLED + diagnóstico | [📘 Ver](https://tecnologiaingenieria.wordpress.com/2026/01/16/cansat-lora-wifi-32-v3-y-gps-neo-6m/#programa-gps-microsd-oled-heltec-wifi-lora-32-v3) | [📄 Ver](../Codigos/74_Heltec_GPS_HUD/...) |
 
 ---
 
