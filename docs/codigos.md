@@ -117,11 +117,11 @@
 
 | Nº | Nombre | Descripción | Tutorial | Código |
 |---:|--------|-------------|:--------:|:------:|
-| 50 | BMP280 básico | Lectura por I2C | [📘 Ver](https://tecnologiaingenieria.wordpress.com/2026/01/09/cansat-wifi-lora-32-v3-y-bmp280/#programa-temperatura-en-monitor-serie) | [📄 Ver](../Codigos/50_Heltec_BMP/...) |
-| 51 | BMP280 OLED | Visualización en pantalla | [📘 Ver](https://tecnologiaingenieria.wordpress.com/2026/01/09/cansat-wifi-lora-32-v3-y-bmp280/#programa-lectura-de-temperatura-presion-y-altitud-oled) | [📄 Ver](../Codigos/51_Heltec_BMP_OLED/...) |
-| 52 | BMP280 HUD | Interfaz tipo aviónica | [📘 Ver](https://tecnologiaingenieria.wordpress.com/2026/01/09/cansat-wifi-lora-32-v3-y-bmp280/#programa-bmp280-iconos-en-la-oled) | [📄 Ver](../Codigos/52_Heltec_BMP_HUD/...) |
-| 53 | BMP280 HUD PRO | HUD avanzado TORREX | [📘 Ver](https://tecnologiaingenieria.wordpress.com/2026/01/09/cansat-wifi-lora-32-v3-y-bmp280/#programa-hud-pro-cansat-heltec-wifi-lora-32-v3) | [📄 Ver](../Codigos/53_Heltec_BMP_HUD_PRO/...) |
-| 54 | BMP280 SD | Registro CSV en microSD | [📘 Ver](https://tecnologiaingenieria.wordpress.com/2026/01/09/cansat-wifi-lora-32-v3-y-bmp280/#programa-bmp280-a-microsd-en-csv-heltec-wifi-lora-32-v3) | [📄 Ver](../Codigos/54_Heltec_BMP_SD/...) |
+| 50 | BMP280 básico | Lectura por I2C | [🎥 Tutorial paso a paso](https://tecnologiaingenieria.wordpress.com/2026/01/09/cansat-wifi-lora-32-v3-y-bmp280/#programa-temperatura-en-monitor-serie) | [📄 Ver](../Codigos/50_Heltec_BMP/...) |
+| 51 | BMP280 OLED | Visualización en pantalla | [🎥 Tutorial paso a paso](https://tecnologiaingenieria.wordpress.com/2026/01/09/cansat-wifi-lora-32-v3-y-bmp280/#programa-lectura-de-temperatura-presion-y-altitud-oled) | [📄 Ver](../Codigos/51_Heltec_BMP_OLED/...) |
+| 52 | BMP280 HUD | Interfaz tipo aviónica | [🎥 Tutorial paso a paso](https://tecnologiaingenieria.wordpress.com/2026/01/09/cansat-wifi-lora-32-v3-y-bmp280/#programa-bmp280-iconos-en-la-oled) | [📄 Ver](../Codigos/52_Heltec_BMP_HUD/...) |
+| 53 | BMP280 HUD PRO | HUD avanzado TORREX | [🎥 Tutorial paso a paso](https://tecnologiaingenieria.wordpress.com/2026/01/09/cansat-wifi-lora-32-v3-y-bmp280/#programa-hud-pro-cansat-heltec-wifi-lora-32-v3) | [📄 Ver](../Codigos/53_Heltec_BMP_HUD_PRO/...) |
+| 54 | BMP280 SD | Registro CSV en microSD | [🎥 Tutorial paso a paso](https://tecnologiaingenieria.wordpress.com/2026/01/09/cansat-wifi-lora-32-v3-y-bmp280/#programa-bmp280-a-microsd-en-csv-heltec-wifi-lora-32-v3) | [📄 Ver](../Codigos/54_Heltec_BMP_SD/...) |
 
 ---
 
@@ -129,11 +129,11 @@
 
 | Nº | Nombre | Descripción | Tutorial | Código |
 |---:|--------|-------------|:--------:|:------:|
-| 60 | MPU básico | Lectura directa | [📘 Ver]([https://tecnologiaingenieria.wordpress.com/2026/01/09/cansat-wifi-lora-32-v3-y-bmp280/#programa-temperatura-en-monitor-serie](https://tecnologiaingenieria.wordpress.com/2026/01/15/cansat-wifi-lora-32-v3-y-mpu-6050/#programa-1-comprobacion-basica-del-mpu-6050)) | [📄 Ver](../Codigos/60_Heltec_MPU/...) |
-| 61 | MPU calibración | Cálculo de offsets | [📘 Ver](https://tecnologiaingenieria.wordpress.com/2026/01/15/cansat-wifi-lora-32-v3-y-mpu-6050/#calibracion-del-mpu-6050) | [📄 Ver](../Codigos/61_Heltec_MPU_CAL/...) |
-| 62 | MPU estable | Lectura filtrada | [📘 Ver](https://tecnologiaingenieria.wordpress.com/2026/01/15/cansat-wifi-lora-32-v3-y-mpu-6050/#programa-2-test-de-estabilidad-offsets-aplicados) | [📄 Ver](../Codigos/62_Heltec_MPU_STABLE/...) |
-| 63 | MPU HUD | Datos en OLED | [📘 Ver](https://tecnologiaingenieria.wordpress.com/2026/01/15/cansat-wifi-lora-32-v3-y-mpu-6050/#programa-3-hud-basico-en-la-oled) | [📄 Ver](../Codigos/63_Heltec_MPU_HUD/...) |
-| 64 | MPU SD | Registro en CSV | [📘 Ver](https://tecnologiaingenieria.wordpress.com/2026/01/15/cansat-wifi-lora-32-v3-y-mpu-6050/#programa-mpu6050-a-microsd-en-csv-heltec-wifi-lora-32-v3) | [📄 Ver](../Codigos/64_Heltec_MPU_SD/...) |
+| 60 | MPU básico | Lectura directa | [🎥 Tutorial paso a paso]([https://tecnologiaingenieria.wordpress.com/2026/01/09/cansat-wifi-lora-32-v3-y-bmp280/#programa-temperatura-en-monitor-serie](https://tecnologiaingenieria.wordpress.com/2026/01/15/cansat-wifi-lora-32-v3-y-mpu-6050/#programa-1-comprobacion-basica-del-mpu-6050)) | [📄 Ver](../Codigos/60_Heltec_MPU/...) |
+| 61 | MPU calibración | Cálculo de offsets | [🎥 Tutorial paso a paso](https://tecnologiaingenieria.wordpress.com/2026/01/15/cansat-wifi-lora-32-v3-y-mpu-6050/#calibracion-del-mpu-6050) | [📄 Ver](../Codigos/61_Heltec_MPU_CAL/...) |
+| 62 | MPU estable | Lectura filtrada | [🎥 Tutorial paso a paso](https://tecnologiaingenieria.wordpress.com/2026/01/15/cansat-wifi-lora-32-v3-y-mpu-6050/#programa-2-test-de-estabilidad-offsets-aplicados) | [📄 Ver](../Codigos/62_Heltec_MPU_STABLE/...) |
+| 63 | MPU HUD | Datos en OLED | [🎥 Tutorial paso a paso](https://tecnologiaingenieria.wordpress.com/2026/01/15/cansat-wifi-lora-32-v3-y-mpu-6050/#programa-3-hud-basico-en-la-oled) | [📄 Ver](../Codigos/63_Heltec_MPU_HUD/...) |
+| 64 | MPU SD | Registro en CSV | [🎥 Tutorial paso a paso](https://tecnologiaingenieria.wordpress.com/2026/01/15/cansat-wifi-lora-32-v3-y-mpu-6050/#programa-mpu6050-a-microsd-en-csv-heltec-wifi-lora-32-v3) | [📄 Ver](../Codigos/64_Heltec_MPU_SD/...) |
 
 ---
 
@@ -141,11 +141,11 @@
 
 | Nº | Nombre | Descripción | Tutorial | Código |
 |---:|--------|-------------|:--------:|:------:|
-| 70 | GPS NMEA | Tramas crudas | [📘 Ver](https://tecnologiaingenieria.wordpress.com/2026/01/16/cansat-lora-wifi-32-v3-y-gps-neo-6m/#ver-tramas-nmea-en-el-monitor-serie) | [📄 Ver](../Codigos/70_Heltec_GPS_RAW/...) |
-| 71 | GPS TinyGPS++ | Parseo básico | [📘 Ver](https://tecnologiaingenieria.wordpress.com/2026/01/16/cansat-lora-wifi-32-v3-y-gps-neo-6m/#programa-gps-neo-6m-y-tinygps-heltec-wifi-lora-32-v3) | [📄 Ver](../Codigos/71_Heltec_GPS_PARSE/...) |
-| 72 | GPS filtrado | Datos válidos (fix) | [📘 Ver](https://tecnologiaingenieria.wordpress.com/2026/01/16/cansat-lora-wifi-32-v3-y-gps-neo-6m/#programa-gps-neo-6m-tinygps-filtrado-heltec-wifi-lora-32-v3) | [📄 Ver](../Codigos/72_Heltec_GPS_FILTER/...) |
-| 73 | GPS SD | Registro gps_data.csv | [📘 Ver](https://tecnologiaingenieria.wordpress.com/2026/01/16/cansat-lora-wifi-32-v3-y-gps-neo-6m/#programa-gps-microsd-heltec-wifi-lora-32-v3) | [📄 Ver](../Codigos/73_Heltec_GPS_SD/...) |
-| 74 | GPS HUD | OLED + diagnóstico | [📘 Ver](https://tecnologiaingenieria.wordpress.com/2026/01/16/cansat-lora-wifi-32-v3-y-gps-neo-6m/#programa-gps-microsd-oled-heltec-wifi-lora-32-v3) | [📄 Ver](../Codigos/74_Heltec_GPS_HUD/...) |
+| 70 | GPS NMEA | Tramas crudas | [🎥 Tutorial paso a paso](https://tecnologiaingenieria.wordpress.com/2026/01/16/cansat-lora-wifi-32-v3-y-gps-neo-6m/#ver-tramas-nmea-en-el-monitor-serie) | [📄 Ver](../Codigos/70_Heltec_GPS_RAW/...) |
+| 71 | GPS TinyGPS++ | Parseo básico | [🎥 Tutorial paso a paso](https://tecnologiaingenieria.wordpress.com/2026/01/16/cansat-lora-wifi-32-v3-y-gps-neo-6m/#programa-gps-neo-6m-y-tinygps-heltec-wifi-lora-32-v3) | [📄 Ver](../Codigos/71_Heltec_GPS_PARSE/...) |
+| 72 | GPS filtrado | Datos válidos (fix) | [🎥 Tutorial paso a paso](https://tecnologiaingenieria.wordpress.com/2026/01/16/cansat-lora-wifi-32-v3-y-gps-neo-6m/#programa-gps-neo-6m-tinygps-filtrado-heltec-wifi-lora-32-v3) | [📄 Ver](../Codigos/72_Heltec_GPS_FILTER/...) |
+| 73 | GPS SD | Registro gps_data.csv | [🎥 Tutorial paso a paso](https://tecnologiaingenieria.wordpress.com/2026/01/16/cansat-lora-wifi-32-v3-y-gps-neo-6m/#programa-gps-microsd-heltec-wifi-lora-32-v3) | [📄 Ver](../Codigos/73_Heltec_GPS_SD/...) |
+| 74 | GPS HUD | OLED + diagnóstico | [🎥 Tutorial paso a paso](https://tecnologiaingenieria.wordpress.com/2026/01/16/cansat-lora-wifi-32-v3-y-gps-neo-6m/#programa-gps-microsd-oled-heltec-wifi-lora-32-v3) | [📄 Ver](../Codigos/74_Heltec_GPS_HUD/...) |
 
 ---
 
@@ -153,9 +153,9 @@
 
 | Nº | Nombre | Descripción | Tutorial | Código |
 |---:|--------|-------------|:--------:|:------:|
-| 80 | MAX9814 básico | RMS, pico y dB relativos | [📘 Ver](LINK) | [📄 Ver](../Codigos/80_Heltec_MAX9814/...) |
-| 81 | MAX9814 TX | Envío por LoRa | [📘 Ver](LINK) | [📄 Ver](../Codigos/81_MAX9814_TX/...) |
-| 82 | MAX9814 RX | Recepción LoRa | [📘 Ver](LINK) | [📄 Ver](../Codigos/82_MAX9814_RX/...) |
+| 80 | MAX9814 básico | RMS, pico y dB relativos | [🎥 Tutorial paso a paso](https://tecnologiaingenieria.wordpress.com/2026/02/11/cansat-sistema-acustico-inteligente/#programa-test-de-nivel-de-sonido-max9814) | [📄 Ver](../Codigos/80_Heltec_MAX9814/...) |
+| 81 | MAX9814 TX | Envío por LoRa | [🎥 Tutorial paso a paso](https://tecnologiaingenieria.wordpress.com/2026/02/11/cansat-sistema-acustico-inteligente/#programa-lora-max9814-oled) | [📄 Ver](../Codigos/81_MAX9814_TX/...) |
+| 82 | MAX9814 RX | Recepción LoRa | [🎥 Tutorial paso a paso](https://tecnologiaingenieria.wordpress.com/2026/02/11/cansat-sistema-acustico-inteligente/#programa-lora-max9814-oled) | [📄 Ver](../Codigos/82_MAX9814_RX/...) |
 
 ---
 
@@ -163,13 +163,13 @@
 
 | Nº | Nombre | Descripción | Tutorial | Código |
 |---:|--------|-------------|:--------:|:------:|
-| 90 | INMP441 básico | RMS + pico | [📘 Ver](LINK) | [📄 Ver](../Codigos/90_INMP441_BASIC/...) |
-| 91 | Detector eventos | Golpes / ruido | [📘 Ver](LINK) | [📄 Ver](../Codigos/91_INMP441_EVENT/...) |
-| 92 | VU OLED | Visualización audio | [📘 Ver](LINK) | [📄 Ver](../Codigos/92_INMP441_VU/...) |
-| 93 | WAV SD | Grabación audio | [📘 Ver](LINK) | [📄 Ver](../Codigos/93_INMP441_WAV/...) |
-| 94 | WAV + AGC | Control automático | [📘 Ver](LINK) | [📄 Ver](../Codigos/94_INMP441_AGC/...) |
-| 95 | EVENTS + SD | Registro eventos | [📘 Ver](LINK) | [📄 Ver](../Codigos/95_INMP441_EVENTS/...) |
-| 96 | Clasificación | IMPACT / WIND | [📘 Ver](LINK) | [📄 Ver](../Codigos/96_INMP441_CLASS/...) |
+| 90 | INMP441 básico | RMS + pico | [🎥 Tutorial paso a paso](https://tecnologiaingenieria.wordpress.com/2026/02/11/cansat-sistema-acustico-inteligente/#programa-test-i2s-nivel-rms-peak-por-serial) | [📄 Ver](../Codigos/90_INMP441_BASIC/...) |
+| 91 | Detector eventos | Golpes / ruido | [🎥 Tutorial paso a paso](https://tecnologiaingenieria.wordpress.com/2026/02/11/cansat-sistema-acustico-inteligente/#detector-de-eventos-palmada-golpe-con-umbral-cooldown) | [📄 Ver](../Codigos/91_INMP441_EVENT/...) |
+| 92 | VU OLED | Visualización audio | [🎥 Tutorial paso a paso](https://tecnologiaingenieria.wordpress.com/2026/02/11/cansat-sistema-acustico-inteligente/#inmp441-oled-heltec-onda-vu) | [📄 Ver](../Codigos/92_INMP441_VU/...) |
+| 93 | WAV SD | Grabación audio | [🎥 Tutorial paso a paso](https://tecnologiaingenieria.wordpress.com/2026/02/11/cansat-sistema-acustico-inteligente/#grabar-wav-en-microsd-inmp441-heltec-v3-oled) | [📄 Ver](../Codigos/93_INMP441_WAV/...) |
+| 94 | WAV + AGC | Control automático | [🎥 Tutorial paso a paso](https://tecnologiaingenieria.wordpress.com/2026/02/11/cansat-sistema-acustico-inteligente/#control-automatico-de-ganancia-agc) | [📄 Ver](../Codigos/94_INMP441_AGC/...) |
+| 95 | EVENTS + SD | Registro eventos | [🎥 Tutorial paso a paso](https://tecnologiaingenieria.wordpress.com/2026/02/11/cansat-sistema-acustico-inteligente/#eventos-acusticos) | [📄 Ver](../Codigos/95_INMP441_EVENTS/...) |
+| 96 | Clasificación | IMPACT / WIND | [🎥 Tutorial paso a paso](https://tecnologiaingenieria.wordpress.com/2026/02/11/cansat-sistema-acustico-inteligente/#clasificador-acustico) | [📄 Ver](../Codigos/96_INMP441_CLASS/...) |
 
 ---
 
