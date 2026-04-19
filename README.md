@@ -26,7 +26,7 @@ Simula una misión aeroespacial real a escala, integrando diseño de sistemas, e
 
 Sensores → ESP32 → Procesamiento → LoRa → Estación tierra → Análisis
 
-📄 ➡️ [Arquitectura del sistema](docs/arquitectura.md)
+📄 ➡️ [Arquitectura del sistema]([docs/arquitectura-del-sistema.md])
 
 ---
 
